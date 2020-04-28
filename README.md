@@ -2,8 +2,11 @@
 ---
 ## Information
 Location: Department of Earth and Planetary Science at UC Berkeley
+
 UC Berkeley Advisors: Dr. William Boos, Dr. Nandini Ramesh
+
 BASIS Independent Silicon Valley Advisors: Dr. Anna Beck
+
 Duration: June 2019 - present
 ## Description
 Swings in the All-India Rainfall Index, even variations of only 10%, can cause severe flooding or drought, affecting Indian food production and security, and Gross Domestic Product. With current models that measure the Indian summer monsoon rainfall failing to account for new predictability sources that have emerged during the recent global warming, India’s agricultural economy will face dist There has been a recent development, the central-Pacific El Nino-Southern Oscillation, which is the strengthening of the North and South Pacific Highs and the accelerated deepening of the Asian Low that occurs during the boreal spring. Mitigation is possible with timely and accurate predictions of AIRI.
